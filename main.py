@@ -802,8 +802,8 @@ def title():
     stdout.write("             "+Fore.RED           +"║ \x1b[38;2;255;20;147m "+Fore.LIGHTWHITE_EX+"layer4   "+Fore.RED+"|"+Fore.LIGHTWHITE_EX+" Show Layer4 Methods                     "+Fore.RED+"║\n")
     stdout.write("             "+Fore.RED           +"║ \x1b[38;2;255;20;147m "+Fore.LIGHTWHITE_EX+"tools    "+Fore.RED+"|"+Fore.LIGHTWHITE_EX+" Show tools                              "+Fore.RED+"║\n")
     stdout.write("             "+Fore.RED           +"║ \x1b[38;2;255;20;147m "+Fore.LIGHTWHITE_EX+"info     "+Fore.RED+"|"+Fore.LIGHTWHITE_EX+" Show information                        "+Fore.RED+"║\n")
-    stdout.write("             "+Fore.RED           +"║ \x1b[38;2;255;20;147m "+Fore.LIGHTWHITE_EX+"Telegram "+Fore.RED+"|"+Fore.LIGHTWHITE_EX+" https://t.me/ServerKillers              "+Fore.RED+"║\n")
-    stdout.write("             "+Fore.RED           +"║ \x1b[38;2;255;20;147m "+Fore.LIGHTWHITE_EX+"github   "+Fore.RED+"|"+Fore.LIGHTWHITE_EX+" github.com/ServerKillers/Kraken         "+Fore.RED+"║\n")
+    stdout.write("             "+Fore.RED           +"║ \x1b[38;2;255;20;147m "+Fore.LIGHTWHITE_EX+"Telegram "+Fore.RED+"|"+Fore.LIGHTWHITE_EX+" https://t.me/ckmr_mods              "+Fore.RED+"║\n")
+    stdout.write("             "+Fore.RED           +"║ \x1b[38;2;255;20;147m "+Fore.LIGHTWHITE_EX+"github   "+Fore.RED+"|"+Fore.LIGHTWHITE_EX+" github.com/kamranckmr/ckmrddos         "+Fore.RED+"║\n")
     stdout.write("             "+Fore.RED           +"╚═════════════════════════════════════════════════════╝\n")
 ##############################################################################################
 def credit():
