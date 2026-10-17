@@ -877,7 +877,7 @@ def title():
     stdout.write("             "+Fore.RED            +"        ══╦═════════════════════════════════╦══\n")
     stdout.write("             "+Fore.RED+"╔═════════╩═════════════════════════════════╩═════════╗\n")
     stdout.write("             "+Fore.RED+"║ "+Fore.LIGHTWHITE_EX   +"              Please don't attack !!!  "+Fore.RED  +"             ║\n")
-    stdout.write("             "+Fore.RED+"║ "+Fore.LIGHTWHITE_EX   +"      Russian Govenrement sites and .ru domains"+Fore.RED +"     ║\n")
+    stdout.write("             "+Fore.RED+"║ "+Fore.LIGHTWHITE_EX   +"      Pakistan Govenrement sites and .pk domains"+Fore.RED +"     ║\n")
     stdout.write("             "+Fore.RED+"║ "+Fore.LIGHTWHITE_EX   +"             Telegram: @ckmr_mods"+Fore.RED +"               ║\n")
     stdout.write("             "+Fore.RED+"╚═════════════════════════════════════════════════════╝\n") 
     stdout.write("\n")
