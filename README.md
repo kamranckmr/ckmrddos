@@ -1,23 +1,12 @@
 <div align=center>
  
- # KRAKEN DDoS
+ # CK MR DDoS
 </p>
  DDoS Script with Multiple Bypass<br>( Cloudflare UAM,BFM,NOSEC / etc.. )<br/><br/>
- Don't attack Russian Government sites and .ru domains<br>
+ Don't attack Pakistan Government sites and .pk domains<br>
  Don't attack any websites you don't own it<br/>
  This was created for educational purposes<br/>
  All responsibilities and disadvantages of using this program is for the user.
- 
-
-## Language</br>
-
- <img src="https://img.shields.io/badge/Python-FFDD00?style=for-the-badge&logo=python&logoColor=blue"/></br>
-</div>
-
-# :computer: Main window
-<p align="center">
-  <img src="https://i.imgur.com/h72OZpu.jpeg">
-</p>
 
 
 # :satellite: Methods:
@@ -48,21 +37,21 @@
 * Linux:
   * `sudo apt update`
   * `sudo apt install python3 python3-pip git -y`
-  * `git clone https://github.com/ServerKillers/Kraken`
-  * `cd Kraken/`
+  * `git clone https://github.com/kamranckmr/ckmrddos`
+  * `cd ckmrddos/`
   * `pip3 install -r requirements.txt`
   * `python3 main.py`
 
 * Termux:
   * `pkg update`
   * `pkg install python3 python3-pip git -y`
-  * `git clone https://github.com/ServerKillers/Kraken`
-  * `cd Kraken/`
+  * `git clone https://github.com/kamranckmr/ckmrddos`
+  * `cd ckmrddos/`
   * `pip3 install -r requirements.txt`
   * `python3 main.py`
 
 # :rocket: Example: HTTP Flood Attack:
 ```python3 main.py flood https://example.com/ 1000 1000```
 <p align="center">
-  <img src="https://i.imgur.com/XJztNu9.png">
+  <img src="https://i.ibb.co/n8sBT7zs/vkkckkkkk.jpg">
 </p>
