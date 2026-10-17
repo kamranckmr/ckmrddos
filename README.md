@@ -53,5 +53,5 @@
 # :rocket: Example: HTTP Flood Attack:
 ```python3 main.py flood https://example.com/ 1000 1000```
 <p align="center">
-  <img src="[https://i.ibb.co/n8sBT7zs/vkkckkkkk.jpg](https://i.ibb.co/7NScNfy0/Screenshot-2026-10-17-1-24-46-PM.png)">
+  <img src="https://i.ibb.co/7NScNfy0/Screenshot-2026-10-17-1-24-46-PM.png">
 </p>
